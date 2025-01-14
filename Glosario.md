@@ -23,5 +23,3 @@ El marketing es todo lo que se hace para promocionar y vender productos o servic
 
 ### 8. **Salud Ecológica**  
 La salud ecológica es el estado de bienestar de los ecosistemas, es decir, cómo de saludables están los entornos naturales (bosques, ríos, mares, etc.) y si están siendo cuidados adecuadamente. Cuando los ecosistemas están en buen estado, nos beneficia a todos, porque nos proveen de aire limpio, agua, alimentos y materiales. Pero si no los cuidamos, la salud humana también se ve afectada.
-
-Espero que estas definiciones sean claras y fáciles de entender. ¡Si tienes alguna duda, pregúntame!
