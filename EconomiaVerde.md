@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="/img/economia.gif" alt="![economia](/img/EconomiaVerde.jpg)"/>
+  <img src="/img/EconomiaVerde.jpg" alt="![economia](/img/EconomiaVerde.jpg)"/>
 </p>
 
 
