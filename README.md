@@ -1,5 +1,7 @@
 # EconomiaCircular
 
+![Readme](img/Readme.gif)
+
 ## Índice
 
 
