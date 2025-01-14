@@ -40,6 +40,12 @@
 
 [Enelx](https://corporate.enelx.com/es/question-and-answers/what-is-green-economy)
 
+[Europarl](https://www.europarl.europa.eu/topics/es/article/20151201STO05603/economia-circular-definicion-importancia-y-beneficios)
+
+[Miteco](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/economia-circular.html)
+
+[GreenPower](https://www.enelgreenpower.com/es/learning-hub/desarrollo-sostenible/economia-circular)
+
 
 **Autores**
 
