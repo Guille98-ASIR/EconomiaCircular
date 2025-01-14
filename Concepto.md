@@ -2,6 +2,10 @@
 
 La economía circular consiste en elaborar los productos y servicios que necesitamos para nuestras vidas alterando lo menos posible los ciclos naturales. Esto implica, principalmente, reducir la minería, prolongar la vida útil de los productos y, al final de su vida útil, reutilizar y reciclar las materias primas.  
 La economía lineal sigue un modelo de producción y consumo que utiliza recursos, fabrica productos y genera residuos al final de su vida útil, lo que resulta insostenible debido a la limitación de los recursos naturales. En cambio, la economía circular busca cerrar el ciclo, reutilizando y regenerando recursos, de manera que se mantiene en armonía con la naturaleza y favorece un desarrollo sostenible a largo plazo.  
+<p align="center">
+  <img src="/img/7.jpg" alt="![7](/img/7.jpg)"/>
+</p>
+
 # Las 7R    
 ### Reducción:  
 Minimizar la cantidad de recursos y energía utilizados en la producción y consumo de bienes y servicios.
