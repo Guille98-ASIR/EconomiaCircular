@@ -1,4 +1,4 @@
-## **Glosario**:
+# **Glosario**:
 
 ### 1. **CO2 (Dióxido de Carbono)**  
 El CO2 es un gas que está en el aire. Se produce cuando quemamos combustibles como gasolina, carbón o gas, y también cuando respiramos. Es uno de los gases que contribuyen al **cambio climático** porque, cuando se acumula en la atmósfera, ayuda a calentar el planeta.
