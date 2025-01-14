@@ -3,32 +3,32 @@
 ## Índice
 
 
-1.1. Introducción
+1. Introducción(Guille)
 
 
-1.2. Concepto de economía circular
+2. Concepto de economía circular(Guille)
 
 
-1.3. Modelos de producción actuales y consumismo
+3. Modelos de producción actuales y consumismo(Guille)
 
 
-1.4. La economía verde
+4. La economía verde(Iván)
 
 
-1.5.- Ciclo de vida de un producto
+5.- Ciclo de vida de un producto(Iván)
 
 
 
-1.6.- El ecodiseño y las estrategias sostenibles
+6.- El ecodiseño y las estrategias sostenibles(Iván)
 
 
-Conclusiones
+Conclusiones(Dani)
 
 
-Mapa conceptual (Herramientas utilizada)
+Mapa conceptual (Herramientas utilizada)(Dani)
 
 
-Glosario (CO2, Decrecimiento, Eutrofización, Organización Internacional de Normalización (ISO), Producto Interior Bruto (PIB), Revolución Industrial, Marketing y salud ecológica)
+Glosario (CO2, Decrecimiento, Eutrofización, Organización Internacional de Normalización (ISO), Producto Interior Bruto (PIB), Revolución Industrial, Marketing y salud ecológica)(Dani)
 
 
 Referencias
