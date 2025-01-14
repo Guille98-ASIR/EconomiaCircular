@@ -1,6 +1,8 @@
 # EconomiaCircular
 
-![Readme](img/Readme.gif)
+<p align="center">
+  <img src="/img/economia.gif" alt="![economia](/img/economia.gif)"/>
+</p>
 
 ## Índice
 
