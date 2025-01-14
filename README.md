@@ -1,40 +1,40 @@
 # EconomiaCircular
 
-Índice
+## Índice
 
 
-1.1. Introducción
+1.[Introducción](Introduccion.md)(Guille)
 
 
-1.2. Concepto de economía circular
+2.[Concepto de economía circular](Concepto.md)(Guille)
 
 
-1.3. Modelos de producción actuales y consumismo
+3.[Modelos de producción actuales y consumismo](Modelos.md)(Guille)
 
 
-1.4. La economía verde
+4.[La economía verde](EconomiaVerde.md)(Iván)
 
 
-1.5.- Ciclo de vida de un producto
+5.[Ciclo de vida de un producto](Ciclo.md)(Iván)
 
 
 
-1.6.- El ecodiseño y las estrategias sostenibles
+6.[El ecodiseño y las estrategias sostenibles](Ecodiseño.md)(Iván)
 
 
-Conclusiones
+[Conclusiones](Conclusiones.md)(Dani)
 
 
-Mapa conceptual (Herramientas utilizada)
+[Mapa conceptual](MapaConceptual.md)(Dani)
 
 
-Glosario (CO2, Decrecimiento, Eutrofización, Organización Internacional de Normalización (ISO), Producto Interior Bruto (PIB), Revolución Industrial, Marketing y salud ecológica)
+[Glosario](Glosario.md)(Dani)
 
 
-Referencias
+**Referencias**
 
 
-Autores
+**Autores**
 
 ![D.S.R](https://github.com/JohnDSil/EconomiaCircular)
 
