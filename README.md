@@ -35,3 +35,9 @@ Referencias
 
 
 Autores
+
+![D.S.R](https://github.com/JohnDSil/EconomiaCircular)
+
+![I.B.L](https://github.com/IvanBL8/EconomiaCircular)
+
+![G.C.R](https://github.com/Guille98-ASIR/EconomiaCircular)
