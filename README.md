@@ -1,6 +1,6 @@
 # EconomiaCircular
 
-Índice
+## Índice
 
 
 1.1. Introducción
