@@ -1,4 +1,12 @@
 
+
+
+<p align="center">
+  <img src="/img/ecodiseño.jpg" alt="![economia](/img/ecodiseño.jpg)"/>
+</p>
+
+
+
 # Estrategias para promover la sostenibilidad a lo largo del ciclo de vida:
 
 
