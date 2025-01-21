@@ -14,7 +14,9 @@ Está todo lo relacionado con lo digital. Las empresas han descubierto que puede
 
 Los modelos de producción actuales no son solo técnicas; son una respuesta a lo que somos como sociedad hoy: tecnológicos, conscientes del impacto ambiental y cada vez más exigentes con lo que compramos. ¿No es interesante cómo todo esto refleja nuestra forma de vivir?
 
-![si](img/si.gif)
+<p align="center">
+<img src="/img/si.gif" alt="![si](img/si.gif)"/>
+</p>
 
 # Consumismo
 
