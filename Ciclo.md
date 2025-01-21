@@ -1,5 +1,11 @@
 
 
+<p align="center">
+  <img src="/img/ciclo.png" alt="![economia](/img/ciclo.png)"/>
+</p>
+
+
+
 # Las principales etapas del ciclo de vida de un producto en sostenibilidad son:
 
 **Extracción de recursos:**
