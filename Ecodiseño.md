@@ -4,10 +4,10 @@
 
    ## Ecodiseño:
    
-    El ecodiseño es una estrategia de diseño que integra criterios ambientales en el desarrollo de productos, procesos y servicios, buscando reducir el impacto ambiental desde la fase de concepción. 
-   El ecodiseño implica tomar decisiones que minimicen
-    la huella ecológica en cada etapa del ciclo de vida del producto: desde la extracción de recursos hasta su disposición final.
-   El diseño del producto debe tener en cuenta su impacto en todas las fases del ciclo de vida. El objetivo es crear productos que sean más eficientes en el uso de recursos, más fáciles de reparar, reutilizar y reciclar.
+ El ecodiseño es una estrategia de diseño que integra criterios ambientales en el desarrollo de productos, procesos y servicios, buscando reducir el impacto ambiental desde la fase de concepción. 
+ El ecodiseño implica tomar decisiones que minimicen
+ la huella ecológica en cada etapa del ciclo de vida del producto: desde la extracción de recursos hasta su disposición final.
+ El diseño del producto debe tener en cuenta su impacto en todas las fases del ciclo de vida. El objetivo es crear productos que sean más eficientes en el uso de recursos, más fáciles de reparar, reutilizar y reciclar.
 
 
 **Principales características del ecodiseño:**
