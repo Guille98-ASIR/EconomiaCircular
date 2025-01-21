@@ -45,6 +45,8 @@
 
 [GreenPower](https://www.enelgreenpower.com/es/learning-hub/desarrollo-sostenible/economia-circular)
 
+[ModeloProduccion](https://www.researchgate.net/publication/351029276_El_modelo_de_produccion_y_consumo_en_los_ultimos_20_anos_Una_revision_de_la_aproximacion_y_las_alternativas)
+
 
 **Autores**
 
