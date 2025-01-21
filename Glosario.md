@@ -1,7 +1,7 @@
 # **Glosario**:
 
 ### 1. **CO2 (Dióxido de Carbono)**  
-El CO2 es un gas que está en el aire. Se produce cuando quemamos combustibles como gasolina, carbón o gas, y también cuando respiramos. Es uno de los gases que contribuyen al **cambio climático** porque, cuando se acumula en la atmósfera, ayuda a calentar el planeta.
+El CO2 es un gas que está en el aire. Se produce cuando quemamos combustibles como gasolina, carbón o gas, y también cuando respiramos. Es uno de los gases que contribuyen al cambio climático porque, cuando se acumula en la atmósfera, ayuda a calentar el planeta.
 
 ### 2. **Decrecimiento**  
 El decrecimiento es la idea de que, en lugar de seguir creciendo sin fin, como hace la economía hoy en día, deberíamos reducir el consumo de recursos y vivir de forma más sostenible. Es un enfoque que busca que se valore más la calidad de vida que el tener más cosas o consumir cada vez más.
