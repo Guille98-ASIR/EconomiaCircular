@@ -1,1 +1,1 @@
-
+![MapaConceptual](img/Diagrama.png)
