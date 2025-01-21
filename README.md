@@ -1,4 +1,4 @@
-# EconomiaCircular
+# Economia Circular
 
 <p align="center">
   <img src="/img/economia.gif" alt="![economia](/img/economia.gif)"/>
