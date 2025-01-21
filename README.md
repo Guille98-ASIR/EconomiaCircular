@@ -7,32 +7,31 @@
 ## Índice
 
 
-1.[Introducción](Introduccion.md)(Guille)
+1.[Introducción](Introduccion.md)
 
 
-2.[Concepto de economía circular](Concepto.md)(Guille)
+2.[Concepto de economía circular](Concepto.md)
 
 
-3.[Modelos de producción actuales y consumismo](Modelos.md)(Guille)
+3.[Modelos de producción actuales y consumismo](Modelos.md)
 
 
-4.[La economía verde](EconomiaVerde.md)(Iván)
+4.[La economía verde](EconomiaVerde.md)
 
 
-5.[Ciclo de vida de un producto](Ciclo.md)(Iván)
+5.[Ciclo de vida de un producto](Ciclo.md)
 
 
-
-6.[El ecodiseño y las estrategias sostenibles](Ecodiseño.md)(Iván)
-
-
-[Conclusiones](Conclusiones.md)(Dani)
+6.[El ecodiseño y las estrategias sostenibles](Ecodiseño.md)
 
 
-[Mapa conceptual](MapaConceptual.md)(Dani)
+[Conclusiones](Conclusiones.md)
 
 
-[Glosario](Glosario.md)(Dani)
+[Mapa conceptual](MapaConceptual.md)
+
+
+[Glosario](Glosario.md)
 
 
 **Referencias**
