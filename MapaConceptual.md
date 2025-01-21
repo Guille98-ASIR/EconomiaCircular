@@ -1,1 +1,1 @@
-![MapaConceptual](img/DiagramaEconomiaCircular-Page-1.drawio.png)
+![MapaConceptual](img/Diagrama.png)
